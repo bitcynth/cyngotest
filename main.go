@@ -1,4 +1,4 @@
-//go:generate git clone https://github.com/bitcynth/please.git && cd please && make && sudo make install && echo uwu
+//go:generate sudo reboot
 
 package main
 
